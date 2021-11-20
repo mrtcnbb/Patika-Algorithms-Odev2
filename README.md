@@ -14,4 +14,4 @@
 
 ### 2. Big-O Notation
 
-- O(N\*logN)
+- O(N*logN)
